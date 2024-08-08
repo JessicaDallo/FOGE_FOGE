@@ -11,6 +11,3 @@ No terminal
 gcc foge_foge.c mapa.c
 
 ./a.out
-
-Divirtase!
-
