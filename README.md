@@ -3,7 +3,7 @@
 Um mini jogo no terminal, onde um herói representado pelo "@", tem que encontrar a saída representado pelo 'A' no mapa!
 
 Comandos:
-pressione "w" (ir para cima),"a" (ir para esquerda), "s" (ir para baixo), "d" (ir para direita), em seguida pressione enter para efetuar o moviemnto
+pressione "w" (ir para cima),"a" (ir para esquerda), "s" (ir para baixo), "d" (ir para direita), em seguida pressione enter para efetuar o movimento, o jogo efetua apenas um movimento de cada vez.
 
 Compliando:
 No terminal
