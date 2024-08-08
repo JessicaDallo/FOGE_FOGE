@@ -7,6 +7,7 @@ Comandos:
 
 Compliando:
 No terminal
+
 gcc foge_foge.c mapa.c
 
 ./a.out
